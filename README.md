@@ -1,4 +1,4 @@
-## Hi there 👋
+## Web & Mobile $ AI Engineer | React | Next | Vue | Angular | React-Native | Node | Python
 
 <!--
 **collinleo0101/collinleo0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
